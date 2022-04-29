@@ -1,0 +1,1 @@
+This is just a practice html for the Odin project https://www.theodinproject.com/lessons/foundations-recipes
